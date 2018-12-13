@@ -1,0 +1,59 @@
+Experiment;Year;date;plots;number holes;cells.affected;percentage;comment;Sites;plot_id;plot_id_year;relvee_was_done;site;block;plot
+Transplant;2015;12.10.2015;1.1;NA;NA;35;heap;Nes;Nes01.01;Nes01.012015;TRUE;Nes;1;1
+Transplant;2015;12.10.2015;2.3;NA;NA;10;heap;Nes;Nes02.03;Nes02.032015;TRUE;Nes;2;3
+Transplant;2015;12.10.2015;2.4;NA;NA;35;heap;Nes;Nes02.04;Nes02.042015;TRUE;Nes;2;4
+Transplant;2015;12.10.2015;3.4;NA;NA;35;heap;Nes;Nes03.04;Nes03.042015;TRUE;Nes;3;4
+Transplant;2015;12.10.2015;5.1;NA;NA;10;heap;Nes;Nes05.01;Nes05.012015;TRUE;Nes;5;1
+Transplant;2015;12.10.2015;5.4;2;NA;25;heap;Nes;Nes05.04;Nes05.042015;TRUE;Nes;5;4
+Transplant;2015;12.10.2015;6.1;1;NA;15;NA;Nes;Nes06.01;Nes06.012015;TRUE;Nes;6;1
+Transplant;2015;12.10.2015;6.3;NA;NA;35;heap;Nes;Nes06.03;Nes06.032015;TRUE;Nes;6;3
+Transplant;2015;12.10.2015;7.1;2;NA;25;heap;Nes;Nes07.01;Nes07.012015;TRUE;Nes;7;1
+Transplant;2015;12.10.2015;7.2;1;NA;10;heap;Nes;Nes07.02;Nes07.022015;TRUE;Nes;7;2
+Transplant;2015;12.10.2015;8.3;1;NA;25;heap;Nes;Nes08.03;Nes08.032015;TRUE;Nes;8;3
+Transplant;2015;12.10.2015;10.1;1;NA;60;heap;Nes;Nes01.01;Nes01.012015;TRUE;Nes;1;1
+Transplant;2015;12.10.2015;10.2;NA;NA;30;heap;Nes;Nes01.02;Nes01.022015;TRUE;Nes;1;2
+Phenology;2015;03.11.2015;C04;2;A2, C3;5;NA;Nag;NagC.04;NagC.042015;TRUE;Nag;C;4
+Phenology;2015;03.11.2015;C08;2;A4, E4, E5;7;NA;Nag;NagC.08;NagC.082015;TRUE;Nag;C;8
+Phenology;2015;03.11.2015;C09;2;A3, B3, E5;7;NA;Nag;NagC.09;NagC.092015;TRUE;Nag;C;9
+Phenology;2015;03.11.2015;C10;2;A4, B4, B5;12;NA;Nag;NagC.00;NagC.002015;TRUE;Nag;C;0
+Phenology;2015;03.11.2015;C12;1;A2;5;NA;Nag;NagC.02;NagC.022015;TRUE;Nag;C;2
+Phenology;2015;03.11.2015;C15;NA;C4, C5;10;heap;Nag;NagC.05;NagC.052015;TRUE;Nag;C;5
+Phenology;2015;03.11.2015;C17;1;C3, C4;6;NA;Nag;NagC.07;NagC.072015;TRUE;Nag;C;7
+Phenology;2015;03.11.2015;C27;1;E4;2;NA;Nag;NagC.07;NagC.072015;TRUE;Nag;C;7
+Transplant;2016;NA;3.4;NA;NA;NA;Damage;Nes;Nes03.04;Nes03.042016;TRUE;Nes;3;4
+Transplant;2016;NA;4.2;NA;NA;NA;Plot heavily disturbed;Nes;Nes04.02;Nes04.022016;TRUE;Nes;4;2
+Transplant;2016;NA;7.1;NA;NA;NA;heavily damaged, therefore high low cover;Nes;Nes07.01;Nes07.012016;TRUE;Nes;7;1
+Transplant;2016;NA;7.2;NA;NA;NA;kind of damaged;Nes;Nes07.02;Nes07.022016;TRUE;Nes;7;2
+Transplant;2016;NA;8.2;NA;NA;NA;little damage;Nes;Nes08.02;Nes08.022016;TRUE;Nes;8;2
+Transplant;2016;NA;9.4;NA;NA;NA;looks disturbed;Nes;Nes09.04;Nes09.042016;TRUE;Nes;9;4
+Transplant;2016;NA;10.1;NA;NA;NA;looks disturbed and overgrown;Nes;Nes01.01;Nes01.012016;TRUE;Nes;1;1
+Transplant;2016;NA;10.2;NA;NA;NA;damaged;Nes;Nes01.02;Nes01.022016;TRUE;Nes;1;2
+Transplant;2016;NA;9.3;NA;NA;NA;heavy disturbed;Nes;Nes09.03;Nes09.032016;TRUE;Nes;9;3
+Transplant;2017;NA;1.1;NA;NA;NA;heavily disturbed;Nes;Nes01.01;Nes01.012017;TRUE;Nes;1;1
+Transplant;2017;NA;2.3;NA;NA;NA;heavily disturbed, OVER;Nes;Nes02.03;Nes02.032017;FALSE;Nes;2;3
+Transplant;2017;NA;3.4;NA;NA;NA;heavily disturbed;Nes;Nes03.04;Nes03.042017;TRUE;Nes;3;4
+Transplant;2017;NA;4.2;NA;NA;NA;heavily disturbed, OVER;Nes;Nes04.02;Nes04.022017;FALSE;Nes;4;2
+Transplant;2017;NA;4.4;NA;NA;NA;heavily disturbed;Nes;Nes04.04;Nes04.042017;TRUE;Nes;4;4
+Transplant;2017;NA;5.1;NA;NA;NA;heavily disturbed, OVER;Nes;Nes05.01;Nes05.012017;FALSE;Nes;5;1
+Transplant;2017;NA;5.4;NA;NA;NA;mice activity, distrubed;Nes;Nes05.04;Nes05.042017;TRUE;Nes;5;4
+Transplant;2017;NA;6.1;NA;NA;NA;too disturbed;Nes;Nes06.01;Nes06.012017;FALSE;Nes;6;1
+Transplant;2017;NA;6.3;NA;NA;NA;disturbed;Nes;Nes06.03;Nes06.032017;TRUE;Nes;6;3
+Transplant;2017;NA;7.1;NA;NA;NA;too disturbed;Nes;Nes07.01;Nes07.012017;FALSE;Nes;7;1
+Transplant;2017;NA;7.2;NA;NA;NA;little bit disturbed;Nes;Nes07.02;Nes07.022017;TRUE;Nes;7;2
+Transplant;2017;NA;8.2;NA;NA;NA;"ants; disturbance. The ants are very agressive, so short relevee time";Nes;Nes08.02;Nes08.022017;TRUE;Nes;8;2
+Transplant;2017;NA;9.3;NA;NA;NA;Disturbed;Nes;Nes09.03;Nes09.032017;TRUE;Nes;9;3
+Transplant;2017;NA;9.4;NA;NA;NA;heavy distrubance;Nes;Nes09.04;Nes09.042017;FALSE;Nes;9;4
+Transplant;2017;NA;10.1;NA;NA;NA;destroyed;Nes;Nes01.01;Nes01.012017;FALSE;Nes;1;1
+Transplant;2017;NA;10.2;NA;NA;NA;damaged;Nes;Nes01.02;Nes01.022017;TRUE;Nes;1;2
+Transplant;2017;NA;2.4;NA;NA;NA;Fieldsheet is missing;Nes;Nes02.04;Nes02.042017;NA;Nes;2;4
+Transplant;2018;NA;2.3;NA;NA;NA;heavily disturbed, OVER;Nes;Nes02.03;Nes02.032018;FALSE;Nes;2;3
+Transplant;2018;NA;1.1;NA;NA;NA;heavily disturbed, but over grown;Nes;Nes01.01;Nes01.012018;TRUE;Nes;1;1
+Transplant;2018;NA;8.2;NA;NA;NA;Ant hill;Nes;Nes08.02;Nes08.022018;TRUE;Nes;8;2
+Transplant;2018;NA;4.4;NA;NA;NA;heavily disturbed, growing back;Nes;Nes04.04;Nes04.042018;TRUE;Nes;4;4
+Transplant;2018;NA;3.4;NA;NA;NA;heavily disturbed, growing back;Nes;Nes03.04;Nes03.042018;TRUE;Nes;3;4
+Transplant;2018;NA;4.2;NA;NA;NA;too disturbed;Nes;Nes04.02;Nes04.022018;FALSE;Nes;4;2
+Transplant;2018;NA;5.1;NA;NA;NA;too disturbed;Nes;Nes05.01;Nes05.012018;FALSE;Nes;5;1
+Transplant;2018;NA;6.1;NA;NA;NA;too disturbed;Nes;Nes06.01;Nes06.012018;FALSE;Nes;6;1
+Transplant;2018;NA;7.1;NA;NA;NA;too disturbed;Nes;Nes07.01;Nes07.012018;FALSE;Nes;7;1
+Transplant;2018;NA;9.4;NA;NA;NA;too disturbed;Nes;Nes09.04;Nes09.042018;FALSE;Nes;9;4
+Transplant;2018;NA;10.1;NA;NA;NA;too disturbed;Nes;Nes10.01;Nes10.012018;FALSE;Nes;10;1

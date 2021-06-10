@@ -38,8 +38,8 @@ CleanCommunity_NO_Norway <- function(community_NO_Norway_raw){
     rename(originSiteID = siteID, originBlockID = blockID, Treatment = TTtreat, Cover = cover, SpeciesName = species, Year = year, Collector = recorder) %>% 
     mutate(destPlotID = paste(destBlockID, originBlockID, turfID, sep='_')) %>%
     # only select control, local control, warm/down transplant
-    filter(Treatment %in% c("TTC", "TT2")) %>% 
-    mutate(Treatment = recode(Treatment, "TTC" = "LocalControl", "TT2" = "Warm")) %>% 
+    filter(Treatment %in% c("TT1", "TT2")) %>% 
+    mutate(Treatment = recode(Treatment, "TT1" = "LocalControl", "TT2" = "Warm")) %>% 
     filter(Year != 2016) %>% 
     mutate(UniqueID = paste(Year, originSiteID, destSiteID, destPlotID, sep='_')) %>% 
     mutate(destPlotID = as.character(destPlotID),

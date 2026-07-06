@@ -70,7 +70,7 @@ CleanTrait_NO_Norway <- function(trait_NO_Norway_raw){
            Year = year(Date),
            Country = "Norway",
            Site = recode(Site, "Lav" = "Lavisdalen", "Hog" = "Hogsete", "Ulv" =  "Ulvhaugen", "Vik" = "Vikesland", "Gud" = "Gudmedalen", "Ram" = "Rambera", "Arh" = "Arhelleren", "Skj" = "Skjellingahaugen", "Ves" = "Veskre", "Alr" = "Alrust", "Ovs" = "Ovstedal", "Fau" = "Fauske")) %>% 
-    select(-...1, -Date, -Longitude, -Latitude, -Elevation, -Project, -Gradient) %>%
+    select(-`...1`, -Date, -Longitude, -Latitude, -Elevation, -Project, -Gradient) %>%
     tidyr::gather(key = Trait, value = Value, -Country, -Year, -Site, -Individual_number, -SpeciesName, -PlantID, -Collector) %>% 
     filter(!is.na(Value)) %>% rename(destSiteID=Site)
   

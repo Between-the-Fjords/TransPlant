@@ -14,7 +14,7 @@ library("visNetwork")
 library("TR8")
 
 # Source drakeplan
-r_make(source = "trait_drakeplan.R") #NOT WORKING, SITETRAITS IS FAILING FOR SOME REASON
+r_make(source = "./R/WrangleTaxaTraits/trait_drakeplan.R") #NOT WORKING, SITETRAITS IS FAILING FOR SOME REASON
 
 # Load data 
 # site data available as CO_Site (Country_Site, ex. CH_Lavey is Switzerland, Lavey)

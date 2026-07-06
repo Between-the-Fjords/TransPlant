@@ -21,13 +21,6 @@ pkgconfig::set_config("drake::strings_in_dots" = "literals")
 # trick
 pn <- . %>% print(n = Inf)
 
-# drake configurations
-pkgconfig::set_config("drake::strings_in_dots" = "literals")
-
-# trick
-pn <- . %>% print(n = Inf)
-
-
 # Source downstream trait scripts
 source("R/WrangleTaxaTraits/taxa_drakeplan.R") #for TaxaPlan (which cleans species names)
 source("R/WrangleTaxaTraits/try_traits.R") #for try traits

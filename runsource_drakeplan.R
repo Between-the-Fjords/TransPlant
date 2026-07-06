@@ -13,7 +13,7 @@ library("RSQLite")
 library("visNetwork")
 
 # Source drakeplan
-r_make(source = "R/TransPlant_DrakePlan.R")
+r_make(source = "./R/TransPlant_DrakePlan.R")
 
 # Load data 
 # site data available as CO_Site (Country_Site, ex. CH_Lavey is Switzerland, Lavey)
@@ -24,4 +24,5 @@ loadd()
 drake_failed()
 
 # View dependency graph
-r_vis_drake_graph(source = "R/TransPlant_DrakePlan.R", targets_only = TRUE)
+r_vis_drake_graph(source = "./R/TransPlant_DrakePlan.R", targets_only = TRUE)
+
